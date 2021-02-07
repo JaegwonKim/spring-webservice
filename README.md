@@ -6,9 +6,23 @@
 ### 개발환경
 - IDE : IntelliJ IDEA Ultimate 2020.2
 - OS : Windows 10
-- SpringBoot 1.5.9
+- SpringBoot 2.4.2
 - Java8
 - Gradle
 
-### 블로그 URL
+# 커밋내역
+
+### 일자: 2021-02-06
+### 배포내용 [스프링부트로 웹 서비스 출시하기 (1)]
 - https://devzec.tistory.com/entry/무작정따라하기-스프링부트로-웹-서비스-출시하기-1
+- 프로젝트 생성
+
+----
+
+### 일자: 2021-02-07
+### 배포내용 [스프링부트로 웹 서비스 출시하기 (2-1)]
+- https://devzec.tistory.com/entry/무작정따라하기-스프링부트로-웹-서비스-출시하기-2-1-SpringBoot-JPA로-간단-API-만들기
+- 도메인 코드 추가
+- 테스트 코드 추가
+
+----
