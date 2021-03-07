@@ -16,7 +16,7 @@ import javax.persistence.*;
 // JPA를 사용하면 DB 데이터에 작업할 경우 실제 쿼리를 날리기 보다는, 이 Entity(Posts) 클래스 수정을 통해 작업합니다.
 public class Posts extends BaseTimeEntity {
     @Id
-    @GeneratedValue
+    @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
 
     @Column(length = 500, nullable = false)

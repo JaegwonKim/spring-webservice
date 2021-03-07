@@ -57,3 +57,11 @@
 - 메인 페이지에 게시글 등록 기능 추가
 
 ----
+
+### 일자: 2021-03-07
+### 베포내용 [스프링부트로 웹 서비스 출시하기 : SpringBoot & Handlebars로 화면 만들기 (3-2)]
+- https://devzec.tistory.com/entry/3-2-스프링부트로-웹-서비스-출시하기-SpringBoot-Handlebars로-화면-만들기
+- data-h2.sql 추가
+- application.yml 수정
+
+----
